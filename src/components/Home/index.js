@@ -39,7 +39,7 @@ render() {
           <li>Technologies: CSS, HTML, JavaScript, Ruby on Rails, PostgreSQL, Vue.Js, React.Js ,Visual Basic, MS Access,SQL,Java,ReactBootstrap,Ant UI Design.</li>
           <li>Tools: Seagate Crystal Report, GitHub, GitLab, Slack.</li>
           <li>Attended Workshop for Agile in Project Management(Cre8tivedevsSoftware) </li>
-          <li>Attended AWS learning series at University of Denver.</li>
+          <li>Attended AWS learning series at University of Denver,cracked their coding test.</li>
           <li className="job">Working as a Front End Web Developer with Crea8tive Devs Software (2018 onwards ) </li>
         </ul>
 
