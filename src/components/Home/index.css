@@ -1,0 +1,45 @@
+
+
+
+.Home{
+  background-color: red;
+  width: 100%;
+  margin: 0 auto;
+}
+
+ul.list {
+  list-style-type: circle;
+  float: right;
+  top: -210px;
+  right:140px;
+  padding: 70px;
+  list-style-position: inside;
+  margin: 0 auto;
+  position: relative;
+  text-align:left;
+  width: 700px;
+  display: grid;
+  grid-area: general;
+
+  }
+
+.Image{
+  width: 160px;
+  height:160px;
+  padding: 15px;
+
+}
+.job{
+  color:red;
+
+}
+
+@media only screen and (max-width: 800px) {
+  /* For tablets: */
+  .Home
+   {
+    width: 100%;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  }

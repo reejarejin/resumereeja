@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+  background-color:red;
+  background-image: url(flower-purple.jpg);
+  height: 100px;
+  padding:  20px;
+  color: white;
+
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 50px;
+  color: blue;
+}
+
+.App-intro {
+  font-size: large;
+}
+/* Small Devices, Tablets */
+@media only screen and (min-width : 768px) {
+ width:100%;
+ background-color: green;
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 992px) {
+ width: 100%;
+ background-color: pink;
+}
